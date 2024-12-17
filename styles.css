@@ -1,0 +1,71 @@
+.post {
+    text-align: center;
+    background-color: grey;
+    width: 500px;
+    height: 700px;
+    margin: auto;
+
+}
+
+.Post-header {
+    padding: auto;
+
+
+
+}
+
+.imglogo {
+    width: 70px;
+
+
+}
+
+.logo {
+    display: flex;
+    border: black solid;
+    background-color: wheat;
+    padding: auto;
+}
+
+.h2 {
+    display: flex;
+    font-style: italic;
+
+}
+
+.foto {
+    width: 500px;
+}
+
+.imagen {
+    display: flex;
+
+
+}
+
+.iconos {
+    width: 30px;
+    display: flex;
+    margin-left: 4px;
+}
+
+.iconoDerecha {
+    width: 30px;
+    margin-left: 370px;
+
+}
+
+p {
+    border: black solid;
+
+
+}
+
+.header {
+    padding: auto;
+}
+
+.location {
+    margin-right: 100px;
+
+}
